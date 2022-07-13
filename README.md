@@ -1,7 +1,7 @@
 # Cloning Medium: Getting Started with Front-End Web Development
 
 <p align="center">
-<a href="#">View Demo</a>
+<a href="https://mediumuiclone.netlify.app/">View Demo</a>
 </p>
 
 
