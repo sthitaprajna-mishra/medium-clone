@@ -7,8 +7,6 @@
 
 ## About the project
 
----
-
 This project is an attempt to create a likeness of the popular website Medium using basic tools of the frontend trade. The clone not only replicates the behaviour of the site but also manages to maintain its original responsiveness.
 
 Following are a few screenshots comparing the real Medium website with this clone - 
@@ -43,8 +41,6 @@ As you can see, the clone is able to mimic the real site across various screen d
 
 ## Built With
 
----
-
 + HTML
 + CSS
 + JQuery
@@ -52,15 +48,11 @@ As you can see, the clone is able to mimic the real site across various screen d
 
 ## Tools
 
----
-
 + [git](https://git-scm.com/downloads)
 + [Visual Studio Code](https://code.visualstudio.com/)
 + [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Setup and Installation
-
----
 
 + In order to set up all the code on your local machine, you can either download a ZIP of all the files directly or you can clone the code to your local machine, provided you installed git.
 
